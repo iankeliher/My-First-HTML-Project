@@ -1,0 +1,33 @@
+html {
+	background-color: #7bdeed;
+	}
+	
+h1 {
+	font-family: Helvetica, sans-serif;
+	color: white;
+	border-top: 4px dashed white;
+	padding-top: 10px;
+	border-bottom: 4px dashed white;
+	padding-bottom: 10px;
+	}
+
+h2 {
+	font-family: Helvetica, sans-serif;
+	color: #000000;
+	}	
+	
+h3 {
+	font-family: Helvetica, sans-serif;
+	color: #5f6263;
+	}
+
+article {
+	border-top: 4px double white;
+	border-bottom: 4px double white;
+	}
+	
+a:link {
+	text-decoration: none;
+	}
+	
+	
