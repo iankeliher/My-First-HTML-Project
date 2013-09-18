@@ -1,6 +1,6 @@
 html {
 	background-color: #7bdeed;
-	}
+}
 	
 	
 h1 {
@@ -12,63 +12,81 @@ h1 {
 	padding-top: 10px;
 	border-bottom: 4px dashed white;
 	padding-bottom: 10px;
-	}
+}
 
 h2 {
 	font-family: Helvetica, sans-serif;
 	color: #000000;
-	}	
+	margin-left: 20px;
+}	
 	
 h3 {
 	font-family: Helvetica, sans-serif;
 	color: #5f6263;
-	}
+}
 
 .reasons {
 	font-family: Helvetica, sans-serif;
 	font-size: 9.7pt;
 	color: #6b6d6d;
-	}
+}
 
-#haiku title {
+#haiku_title {
 	font-family: Monaco, sans-serif;
 }
 
 #haiku {
 	font-family: Monaco, sans-serif;
-	}
+}
 
 
 article {
 	border-top: 4px double white;
 	border-bottom: 4px double white;
-	}
+}
 
-#first article {
-	border-bottom: 4px double red;
-	}
+#first_article {
+	border-top: none;
+	border-bottom: 4px double white;
+}
 	
-#last article {
+#last_article {
 	border-top: 4px double white;
-	}
+	border-bottom: none;
+}
 
 ol {
 	font-family: Monaco;
 	font-size: 11pt;
 	color: white;
-	}
+}
 
 #PTA {
 	background-color: white;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	margin: 10px 0px 10px
-	}
+	margin: 10px 0px 10px;
+}
+
+#Cumulus {
+	background-color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 10px 0px 10px 20px;
+}
+
+#srsly {
+	margin: 10px 0 20px 20px;
+}
+
+table {
+	border-color: white;
+}
 
 a {
 	color: white;
 	text-decoration: none;
-	}
+}
 
 
 
