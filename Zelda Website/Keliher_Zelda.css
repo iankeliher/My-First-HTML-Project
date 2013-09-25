@@ -1,0 +1,87 @@
+#background {
+	width: 800px;
+	height: 2000px;
+	background-image: url(Zelda_grass_one.jpg);
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px;
+}
+
+#header {
+	height: 80px;
+}
+
+#bigtriforce {
+	width: 300px;
+	height: auto;
+}
+
+#toplogo {
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+.grass_left, .grass_right {
+	width: 30px;
+	height: 30px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-image: url(pattern_image.gif);
+}
+
+.grass_left {
+	float: left;
+	clear: both;
+}
+
+.grass_right {
+	float: right;
+	clear: both;
+}
+
+.infocontainer {
+	width: 130px;
+	margin-top: 150px;
+	float: left;
+	clear: left;
+}
+
+#leftgrasscont, #centergrasscont, #rightgrasscont {
+	height: 100px;
+	float: left;
+	margin: 0px 80px 0px 80px;
+}
+
+#leftgrasscont {
+	margin-top: 100px;
+}
+	
+#rightgrasscont {
+	margin-top: 50px;
+}
+
+#title, .information {
+	font-family: Helvetica, sans-serif;
+	color: white;
+}
+
+#title {
+	font-size: 70px;
+	text-align: center;
+	color: yellow;
+}
+
+.information {
+	font-family: monaco, monospaced;
+	font-size: 10px;
+}
+
+#header .information {
+	font-family: monaco, monospaced;
+	font-size: 18px;
+	text-align: right;
+}
+
