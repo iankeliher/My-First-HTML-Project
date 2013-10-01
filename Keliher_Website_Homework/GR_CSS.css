@@ -1,0 +1,140 @@
+h1 {
+	font-family: Helvetica;
+	font-weight: lighter;
+	font-style: italic;
+	color: white;
+	font-size: 46px;
+	text-align: right;
+}
+
+h2, p {
+	font-family: Helvetica;
+	font-weight: lighter;
+	text-align: center;
+	color: white;
+}
+
+p {
+	text-align: left;
+}
+
+header {
+	width: auto;
+	padding-left: 20px;
+	background-color: black;
+	position: fixed;
+	top: -10px;
+	
+}
+
+#bump {
+	height: 150px;
+	width:auto;
+	clear: both;
+}
+
+#button_container {
+	border: 1px solid red;
+	width: 600px;
+	height: 2000px;	
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+
+.button {
+	padding: 10px 40px 10px 30px;
+	margin: 20px;
+}
+
+.thoughts_beyond {
+	padding: 10px 40px 10px 30px;
+	float: left;
+}
+
+#tickertape {
+	width:80px;
+	height: 1500px;
+	background-image:url('http://www.agnesscott.edu/lriddle/fractals.ico');
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.composition {
+	background-image:url('http://www.agnesscott.edu/lriddle/fractals.ico');
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+}
+
+#composition1 {
+	width:160px;
+	height: 1500px;
+}
+
+#composition2 {
+	width:320px;
+	height:800px;
+	float: right;
+}
+
+#composition3 {
+	width: 80px;
+	height: 160px;
+}
+
+#composition4 {
+	width: 600px;
+	height: 40px;
+	float: right;
+}
+
+.repeatno4 {
+	background-image:url('http://www.agnesscott.edu/lriddle/fractals.ico');
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 600px;
+	height: 40px;
+	float: right;
+	margin-bottom: 10px;
+}
+
+.image_center {
+	width: 400px;
+	margin-top: 60px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.image_float {
+	border: 1px solid red;
+	margin-top: 30px;
+	height: 400px;
+	width: 500px;
+	padding: 30px;
+	float: left;
+}
+
+.img_large {
+	margin-left: auto;
+	margin-right: auto;
+	height: 400px;
+	width: auto;
+}
+
+.octopus {
+	margin-left: 20px;
+	clear: both;
+}
+
+#kwik {
+	clear: both;
+}
+
+html {
+	background-color: black;
+}
+
+a {
+	text-decoration: none;
+}
